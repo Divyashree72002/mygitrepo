@@ -1,9 +1,15 @@
 "hello, Git!"
 "hello World"
+"hi world"
+fghj
 
+<<<<<<< HEAD
 
 "hi world offline"
 "this is the offline changes"
 
 
 dfghfhgfg
+=======
+"this is the offline changes"
+>>>>>>> aba636995b4340790095fc4b8ba41d40a531f916
