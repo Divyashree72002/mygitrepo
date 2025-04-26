@@ -1,2 +1,6 @@
 "hello, Git!"
 "hello World"
+
+
+
+"this is the offline changes"
